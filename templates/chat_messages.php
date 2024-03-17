@@ -3,7 +3,7 @@
 <?php include 'templates/includes/side_navbar.php'; ?>
 
 <div class="col-md-6 mt-3">
-    <div class="card" style="max-height: 100%">
+    <div class="card" style="max-height: 88%">
         <div class="card-header d-flex align-items-center justify-content-start">
             <img src="<?= $user->profile_path ?>" alt="" width="32" height="32" class="rounded-circle me-2">
             <div class="d-flex flex-column ms-2">
