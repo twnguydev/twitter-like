@@ -66,4 +66,4 @@ Le système de messagerie privée permettra aux utilisateurs d'échanger des mes
 
 Ce fichier README.md fournit un aperçu des fonctionnalités et des caractéristiques clés du projet Tweet Academy. Pour des instructions détaillées sur l'installation, la configuration et l'utilisation, veuillez vous référer à la documentation appropriée.
 
-Pour toute question ou commentaire, n'hésitez pas à nous contacter à l'adresse suivante : [hello@tanguygibrat.fr](mailto:hello@tanguygibrat.fr) ou [tanguy.gibrat@epitech.eu](mailto:tanguy.gibrat@epitech.eu).
+Pour toute question ou commentaire, n'hésitez pas à me contacter à l'adresse suivante : [hello@tanguygibrat.fr](mailto:hello@tanguygibrat.fr) ou [tanguy.gibrat@epitech.eu](mailto:tanguy.gibrat@epitech.eu).
