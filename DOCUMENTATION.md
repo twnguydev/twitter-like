@@ -8,7 +8,7 @@ Ce document explique les étapes nécessaires pour configurer correctement le pr
 - Dans PHPMyAdmin, créez une nouvelle base de données nommée "tweet_academy".
 - Importez le fichier database.sql fourni avec le projet dans la base de données que vous venez de créer. Cela va créer toutes les tables nécessaires pour le projet.
 
-## 2. Configuration de app_config.php
+## 2. Configuration de `app_config.php`
 
 - Accédez au fichier `src/lib/app_config.php` dans votre éditeur de texte préféré.
 - Vous y trouverez différentes constantes à configurer. Assurez-vous de les ajuster selon votre environnement de développement. Voici les constantes et leurs significations :
@@ -21,7 +21,7 @@ Ce document explique les étapes nécessaires pour configurer correctement le pr
   - `store_phone` : Le numéro de téléphone de votre magasin ou de votre entreprise.
   - `store_email` : L'adresse e-mail de contact de votre magasin ou de votre entreprise.
 
-## 3. Configuration de db_config.php
+## 3. Configuration de `db_config.php`
 
 - Accédez au fichier `src/lib/db_config.php` dans votre éditeur de texte préféré.
 - Vous y trouverez les paramètres de configuration de la base de données. Assurez-vous de les ajuster en fonction de votre environnement de développement. Voici les paramètres à configurer :
