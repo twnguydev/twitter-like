@@ -31,9 +31,9 @@ Ce document explique les étapes nécessaires pour configurer correctement le pr
   - `password` : Le mot de passe de la base de données MySQL.
   - `charset` : Le charset utilisé pour la base de données MySQL. (recommandé : `utf8mb4`)
 
-**Le fichier SQL présent dans le projet n'étant qu'une démonstration de la schématisation de la gestion des données effectuée pendant le projet, il se peut qu'il y ait une différence potentielle entre les noms de table utilisées dans le code source du projet et le fichier SQL.
+**Le fichier SQL présent dans le projet n'étant qu'une démonstration de la schématisation de la gestion des données effectuée pendant le projet, il se peut qu'il y ait une différence potentielle entre les noms de table utilisées dans le code source du projet et le fichier SQL.**
 
-**Par exemple, dans le code source, une des méthodes utilisées est `{$this->table->getTable('users')}`, mais dans le fichier SQL, la table peut être nommée différemment. Assurez-vous de vérifier et d'ajuster en conséquence pour éviter des erreurs de connexion à la base de données.
+**Par exemple, dans le code source, une des méthodes utilisées est `{$this->table->getTable('users')}`, mais dans le fichier SQL, la table peut être nommée différemment. Assurez-vous de vérifier et d'ajuster en conséquence pour éviter des erreurs de connexion à la base de données.**
 
 ---
 
