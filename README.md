@@ -33,14 +33,23 @@ Le projet Tweet Academy intégrera les fonctionnalités suivantes, similaires à
 
 Les mots de passe des utilisateurs seront stockés de manière sécurisée en utilisant le hachage "ripemd160". Un sel commun sera utilisé pour tous les utilisateurs.
 
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 18 58" src="https://github.com/twnguydev/twitter-like/assets/154362306/de395c36-7c0f-4288-96b4-f5166214aaec">
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 19 33" src="https://github.com/twnguydev/twitter-like/assets/154362306/dfa64e3a-138e-4063-9d96-611414a402cf">
+
 ## 4. Followers - Following
 
 Les utilisateurs pourront consulter et rechercher les profils des autres utilisateurs. Sur chaque profil utilisateur, un lien permettant de suivre cet utilisateur sera présent.
 De plus, sur votre propre profil, il sera possible de lister les personnes que vous suivez (following) et les personnes qui vous suivent (followers).
 
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 21 57" src="https://github.com/twnguydev/twitter-like/assets/154362306/8e2797f4-9a71-4104-9320-c989fdc123c9">
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 21 46" src="https://github.com/twnguydev/twitter-like/assets/154362306/26d63bc0-8f0d-4022-8306-09ce0d7e6a41">
+
 ## 5. Hashtags et Mentions
 
-Si un tweet contient un hashtag ("#tag"), il sera représenté sous forme de lien vers la page de recherche du tag correspondant. De même, si un tweet mentionne une personne ("@pseudo"), la chaîne contenant le "@" sera représentée sous forme de lien pointant vers le profil de la personne désignée. De plus, une liste de suggestions de profils s'affichera à chaque caractère entré après le "@".
+Si un tweet contient un hashtag ("#tag"), il sera représenté sous forme de lien vers la page de recherche du tag correspondant. De même, si un tweet mentionne une personne ("@pseudo"), la chaîne contenant le "@" sera représentée sous forme de lien pointant vers le profil de la personne désignée.
+
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 24 01" src="https://github.com/twnguydev/twitter-like/assets/154362306/c8e2d592-464b-43de-b3f4-3932b9fcba95">
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 24 17" src="https://github.com/twnguydev/twitter-like/assets/154362306/818137b8-9764-4262-9f95-99a1c78ead75">
 
 ## 6. Ajout de Photos
 
@@ -49,6 +58,9 @@ Les utilisateurs pourront ajouter des photos à leurs tweets en les télécharge
 ## 7. Messagerie Privée
 
 Le système de messagerie privée permettra aux utilisateurs d'échanger des messages en privé avec d'autres utilisateurs. Cette fonctionnalité offrira une communication directe et confidentielle entre les membres de la plateforme.
+
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 29 46" src="https://github.com/twnguydev/twitter-like/assets/154362306/c7c68b48-33ed-4a8b-9ee4-6dd163de6d7d">
+<img width="500" alt="Capture d’écran 2024-03-17 à 11 32 29" src="https://github.com/twnguydev/twitter-like/assets/154362306/5ad77bb3-816c-4ba2-b7d3-5fcff0ee4f91">
 
 ---
 
