@@ -31,6 +31,8 @@ Ce document explique les étapes nécessaires pour configurer correctement le pr
   - `password` : Le mot de passe de la base de données MySQL.
   - `charset` : Le charset utilisé pour la base de données MySQL. (recommandé : `utf8mb4`)
 
+Veuillez noter qu'il peut y avoir une différence potentielle entre les noms de table utilisées dans le projet et le fichier SQL. Par exemple, dans le code, vous pouvez utiliser `{$this->table->getTable('users')}`, mais dans le fichier SQL, la table peut être nommée différemment. Assurez-vous de vérifier et d'ajuster en conséquence pour éviter des erreurs de connexion à la base de données.
+
 ---
 
 Une fois que vous avez configuré correctement ces fichiers, votre projet Tweet Academy devrait être prêt à être utilisé.
