@@ -31,6 +31,8 @@ Ce document explique les étapes nécessaires pour configurer correctement le pr
   - `password` : Le mot de passe de la base de données MySQL.
   - `charset` : Le charset utilisé pour la base de données MySQL. (recommandé : `utf8mb4`)
 
+---
+
 Une fois que vous avez configuré correctement ces fichiers, votre projet Tweet Academy devrait être prêt à être utilisé.
 
 Pour toute question ou assistance supplémentaire, n'hésitez pas à me contacter à l'adresse suivante : [hello@tanguygibrat.fr](mailto:hello@tanguygibrat.fr) ou [tanguy.gibrat@epitech.eu](mailto:tanguy.gibrat@epitech.eu).
